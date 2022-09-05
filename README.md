@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yinotherhino
 - 👀 I’m interested in Web development, Mobile Software development and Python and javascript programming
 - 🌱 Reactjs and Nodejs
--  Projects:
-PHP- [markazbaraje.org.ng-school websie](http://markazbaraje.org.ng)
+-  Projects:<br />
+PHP- [markazbaraje.org.ng-school websie](http://markazbaraje.org.ng)<br />
 Django- [xtracto- metadata extracto](https://young-coast-20585.herokuapp.com/)
 - 💞️ I’m looking to collaborate on python projects until I am fully confident about my reactjs skills.
 - 📫 How to reach me muhammed.bayero@decagon.dev | muhammedbayero@gmail.com | linkedin.com/in/muhammed-bolaji-51781a11b
