@@ -23,6 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
+  <a href="https://app.codesignal.com/coding-report/mPqAAKCkTemEwdwCy-qDMYs3GxDvZqLk7bKM5R7nJ3?accessToken=mPqAAKCkTemEwdwCy-in6oMftKufYpAhpuPuqs4AZu">
+    Algorithm skills profile(Codesignal)
+  </a>
 <!-- <img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge"> -->
 <br />
 <br />
