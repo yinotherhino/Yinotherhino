@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<!-- <img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge"> -->
 <br />
 <br />
 
