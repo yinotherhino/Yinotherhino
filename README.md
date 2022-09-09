@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://app.codesignal.com/profile/muhammed_29x">
     Algorithm skills profile(Codesignal)
   </a>
-<img src="https://www.codewars.com/users/yinoTherhino%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<img src="https://www.codewars.com/users/yinoTherhino%20Alpha/badges/large" alt="Yinotherhino Codewars Badge">
 <br />
 <br />
 
