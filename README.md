@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
-  <h4>Top  Projects:</h4><br />
+  <h4>Top  Projects:</h4>
 PHP- [markazbaraje.org.ng-school websie](http://markazbaraje.org.ng)<br />
 Django- [xtracto- metadata extracto](https://young-coast-20585.herokuapp.com/)
 <br />
