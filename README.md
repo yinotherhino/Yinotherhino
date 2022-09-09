@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Yinotherhino
-- 👀 I’m interested in Web development, Mobile Software development and Python and javascript programming
-- 🌱 Reactjs and Nodejs
--  Projects:<br />
-PHP- [markazbaraje.org.ng-school websie](http://markazbaraje.org.ng)<br />
-Django- [xtracto- metadata extracto](https://young-coast-20585.herokuapp.com/)
-- 📫 How to reach me muhammed.bayero@decagon.dev | yinoittech@gmail.com | linkedin.com/in/muhammed-bolaji-51781a11b
--     I'm at Lagos, Nigeria
+
+
+
 <!---
 Yinotherhino/Yinotherhino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,7 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://https://github.com/Yinotherhino" width="30"></h2>
+<h2> 👋Hi, I’m @Yinotherhino, Welcome to my Github profile! 
+  <!-- <img src="https://https://github.com/Yinotherhino" width="30"></h2> -->
 <a href="https://linkedin.com/in/muhammed-bayero-51781a11b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -33,7 +29,10 @@ You can click the Preview link to take a look at your changes.
 
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
-
+Top  Projects:<br />
+PHP- [markazbaraje.org.ng-school websie](http://markazbaraje.org.ng)<br />
+Django- [xtracto- metadata extracto](https://young-coast-20585.herokuapp.com/)
+<br />
 I'm currently based in **[Lagos, Nigeria.](https://goo.gl/maps/wpi5Qva2FTCKDjpC6)**
 
 <br />
