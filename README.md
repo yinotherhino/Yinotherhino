@@ -37,7 +37,7 @@ I'm a Full Stack Developer with hands-on experience designing, developing and im
   Django- <a href="https://young-coast-20585.herokuapp.com/">xtracto- metadata extraction</a>
 <br />
   <br />
-  I'm currently based in **<a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>**
+  I'm currently based in <a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>
 <br/>
 <br />
 I love learning new techs and using new tools. I also love swimming and watching football(GGMU) when I am not coding.
@@ -45,7 +45,7 @@ I love learning new techs and using new tools. I also love swimming and watching
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/yinotherhino/yinotherhino/issues/new)** or <a href="mailto:muhammedbayero@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here](https://github.com/yinotherhino/yinotherhino)** or <a href="mailto:muhammedbayero@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
