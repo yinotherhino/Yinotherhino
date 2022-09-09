@@ -36,8 +36,9 @@ I'm a Full Stack Developer with hands-on experience designing, developing and im
 PHP- [markazbaraje.org.ng-school websie](http://markazbaraje.org.ng)<br />
 Django- [xtracto- metadata extracto](https://young-coast-20585.herokuapp.com/)
 <br />
+  <br />
 I'm currently based in **[Lagos, Nigeria.](https://goo.gl/maps/wpi5Qva2FTCKDjpC6)**
-
+<br/>
 <br />
 I love learning new techs and using new tools. I also love swimming and watching football(GGMU) when I am not coding.
 <br />
