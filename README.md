@@ -36,7 +36,7 @@ I'm a Full Stack Developer with hands-on experience designing, developing and im
   PHP- <a href="http://markazbaraje.org.ng">markazbaraje.org.ng-school</a><br />
   Django- <a href="https://young-coast-20585.herokuapp.com/">xtracto- metadata extraction</a>
   <br />
-  Javascript API fetching- <a href="https://starwarscharsapi.herokuapp.com/">StarwarsAPI- API consuming(heroku)</a><a href="https://starwarscharsapi.netlify.app/">StarwarsAPI- API consuming(netlify)</a>
+  Javascript SPA- <a href="https://starwarscharsapi.herokuapp.com/">StarwarsAPI- API consuming(heroku)</a> <a href="https://starwarscharsapi.netlify.app/">StarwarsAPI- API consuming(netlify)</a>
 <br />
   <br />
   I'm currently based in <a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>
