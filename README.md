@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  <h2> 👋Hi, I’m Muhammed bayero, Welcome to my Github profile! </h2>
+  <h2> 👋Hi, I’m yinotherhino, Welcome to my Github profile! </h2>
   <!-- <img src="https://https://github.com/Yinotherhino" width="30"></h2> -->
 <a href="https://linkedin.com/in/muhammed-bayero-51781a11b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
